@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_delivery_task">
+    <sc_cat_item_delivery_task action="INSERT_OR_UPDATE">
+        <assigned_to/>
+        <condition/>
+        <condition_script/>
+        <delivery_plan display_value="Copy of PC Delivery Plan">af3ff40fdb00130085b8f6dfbf9619ab</delivery_plan>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <generation_script/>
+        <group display_value="Field Services" name="Field Services">74ad1ff3c611227d01d25feac2af603f</group>
+        <instructions>- Deliver PC to Customer location&#13;
+- Install and bootup&#13;
+- Observe customer logon&#13;
+</instructions>
+        <name>Deliver PC to Customer</name>
+        <order>400</order>
+        <short_description>Deliver PC to Customer</short_description>
+        <sla/>
+        <sys_class_name>sc_cat_item_delivery_task</sys_class_name>
+        <sys_created_by>beth.anglin</sys_created_by>
+        <sys_created_on>2018-02-07 10:43:05</sys_created_on>
+        <sys_id>273f74c3db40130085b8f6dfbf961959</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Deliver PC to Customer</sys_name>
+        <sys_package display_value="test" source="x_191574_test">a718a391db80130085b8f6dfbf961977</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">a718a391db80130085b8f6dfbf961977</sys_scope>
+        <sys_update_name>sc_cat_item_delivery_task_273f74c3db40130085b8f6dfbf961959</sys_update_name>
+        <sys_updated_by>beth.anglin</sys_updated_by>
+        <sys_updated_on>2018-02-07 10:43:05</sys_updated_on>
+        <work_notes/>
+    </sc_cat_item_delivery_task>
+</record_update>

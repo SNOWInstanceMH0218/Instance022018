@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_user" label="Anonymous" max_length="40" name="x_191574_test_anonymous" type="collection">
+        <element choice="3" label="Icon" max_length="250" name="icon" type="boolean">
+            <choice/>
+        </element>
+    </element>
+</database>

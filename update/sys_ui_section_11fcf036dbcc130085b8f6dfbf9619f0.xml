@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="New Section" section_id="11fcf036dbcc130085b8f6dfbf9619f0" sys_domain="global" table="incident" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-16 10:45:45</sys_created_on>
+            <sys_id>2e269f39db10130085b8f6dfbf96198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="Default view">11fcf036dbcc130085b8f6dfbf9619f0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-16 10:45:45</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ratings.xml</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-16 10:45:45</sys_created_on>
+            <sys_id>66269f39db10130085b8f6dfbf96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Ratings">a3340f6bd7111100158ba6859e610331</sys_ui_formatter>
+            <sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="Default view">11fcf036dbcc130085b8f6dfbf9619f0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-16 10:45:45</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>task_relations.xml</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-16 10:45:45</sys_created_on>
+            <sys_id>2a269f39db10130085b8f6dfbf96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Task Relations">40bcaf630a0a0aa1001c2747a91ef801</sys_ui_formatter>
+            <sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="Default view">11fcf036dbcc130085b8f6dfbf9619f0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-16 10:45:45</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>12M.incident.sla_repair_log_entry.tsla_task</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-16 10:45:45</sys_created_on>
+            <sys_id>ea269f39db10130085b8f6dfbf96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="Default view">11fcf036dbcc130085b8f6dfbf9619f0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-16 10:45:45</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_mod_count</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-16 10:45:45</sys_created_on>
+            <sys_id>6e269f39db10130085b8f6dfbf96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="Default view">11fcf036dbcc130085b8f6dfbf9619f0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-16 10:45:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-16 10:45:45</sys_created_on>
+            <sys_id>ee269f39db10130085b8f6dfbf96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="Default view">11fcf036dbcc130085b8f6dfbf9619f0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-16 10:45:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-06 15:54:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>11fcf036dbcc130085b8f6dfbf9619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="test" source="x_191574_test">a718a391db80130085b8f6dfbf961977</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="test">a718a391db80130085b8f6dfbf961977</sys_scope>
+            <sys_update_name>sys_ui_section_11fcf036dbcc130085b8f6dfbf9619f0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-06 15:54:37</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

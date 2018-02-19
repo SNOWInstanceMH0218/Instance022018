@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_dt_approval">
+    <sc_cat_item_dt_approval action="INSERT_OR_UPDATE">
+        <approval_script/>
+        <assigned_to/>
+        <condition/>
+        <condition_script/>
+        <delivery_plan display_value="Special PC">776ff4c3db40130085b8f6dfbf96193c</delivery_plan>
+        <delivery_time>1970-01-06 00:00:00</delivery_time>
+        <description/>
+        <generation_script/>
+        <group/>
+        <instructions>none</instructions>
+        <name>Manager Approval</name>
+        <order>2000</order>
+        <rejection_goto/>
+        <short_description>Specification</short_description>
+        <sla/>
+        <sys_class_name>sc_cat_item_dt_approval</sys_class_name>
+        <sys_created_by>beth.anglin</sys_created_by>
+        <sys_created_on>2018-02-07 10:48:12</sys_created_on>
+        <sys_id>bdbf78c3db40130085b8f6dfbf9619ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Manager Approval</sys_name>
+        <sys_package display_value="test" source="x_191574_test">a718a391db80130085b8f6dfbf961977</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">a718a391db80130085b8f6dfbf961977</sys_scope>
+        <sys_update_name>sc_cat_item_dt_approval_bdbf78c3db40130085b8f6dfbf9619ec</sys_update_name>
+        <sys_updated_by>beth.anglin</sys_updated_by>
+        <sys_updated_on>2018-02-07 10:48:12</sys_updated_on>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <work_notes/>
+    </sc_cat_item_dt_approval>
+</record_update>

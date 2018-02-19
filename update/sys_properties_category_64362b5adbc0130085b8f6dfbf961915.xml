@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>Room Maintenance</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-05 14:57:43</sys_created_on>
+        <sys_id>64362b5adbc0130085b8f6dfbf961915</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Room Maintenance</sys_name>
+        <sys_package display_value="test" source="x_191574_test">a718a391db80130085b8f6dfbf961977</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">a718a391db80130085b8f6dfbf961977</sys_scope>
+        <sys_update_name>sys_properties_category_64362b5adbc0130085b8f6dfbf961915</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-05 14:57:43</sys_updated_on>
+        <title/>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=64362b5adbc0130085b8f6dfbf961915"/>
+</record_update>

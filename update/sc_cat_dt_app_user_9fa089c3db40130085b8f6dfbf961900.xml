@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_dt_app_user">
+    <sc_cat_dt_app_user action="INSERT_OR_UPDATE">
+        <approver display_value="Aileen Mottern">71826bf03710200044e0bfc8bcbe5d3b</approver>
+        <sc_cat_item_dt_approval display_value="Manager Approval">bdbf78c3db40130085b8f6dfbf9619ec</sc_cat_item_dt_approval>
+        <sys_class_name>sc_cat_dt_app_user</sys_class_name>
+        <sys_created_by>beth.anglin</sys_created_by>
+        <sys_created_on>2018-02-07 10:49:21</sys_created_on>
+        <sys_id>9fa089c3db40130085b8f6dfbf961900</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Manager Approval.Aileen Mottern</sys_name>
+        <sys_package display_value="test" source="x_191574_test">a718a391db80130085b8f6dfbf961977</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">a718a391db80130085b8f6dfbf961977</sys_scope>
+        <sys_update_name>sc_cat_dt_app_user_9fa089c3db40130085b8f6dfbf961900</sys_update_name>
+        <sys_updated_by>beth.anglin</sys_updated_by>
+        <sys_updated_on>2018-02-07 10:49:21</sys_updated_on>
+    </sc_cat_dt_app_user>
+</record_update>
